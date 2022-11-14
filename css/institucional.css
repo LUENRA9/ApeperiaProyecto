@@ -23,19 +23,20 @@
 
 .institucional__descripcion {
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .institucional__direccion {
     font-size: 1.5rem;
     line-height: normal;
-
+    text-align: center;
     margin-bottom: 2rem;
 }
 
 .institucional__contacto {
     font-size: 1.2rem;
     line-height: 1.8;
-
+    text-align: center;
     margin-top: 2rem;
 }
 
