@@ -38,5 +38,5 @@
 .destacados__boton{
     color:var(--boton-rojo);
     border-color: var(--boton-rojo);
-    margin: o auto;
+    margin: 0 auto;
 }
